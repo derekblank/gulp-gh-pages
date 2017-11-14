@@ -35,7 +35,7 @@
     "coverage": "istanbul cover _mocha test.js -x=test.js -- --timeout 50000"
   },
   "dependencies": {
-    "gift": "^0.7.0",
+    "gift": "^0.10.1",
     "gulp-util": "^3.0.7",
     "readable-stream": "^2.0.4",
     "rimraf": "^2.4.4",
